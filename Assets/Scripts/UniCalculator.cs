@@ -355,6 +355,7 @@ public class UniCalculator : MonoBehaviour
         catch (Exception se)
         {
             Debug.LogError(se.Message);
+            // textResult.SetText(se.Message);
             textResult.SetText("Syntax Error!");
         }
     }
