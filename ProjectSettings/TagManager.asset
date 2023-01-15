@@ -3,7 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BtnDecimal
+  - BtnMinus
+  - BtnPlus
+  - BtnMultiplication
+  - BtnDivision
+  - BtnPlus-Minus
+  - BtnEqual
+  - BtnZero
+  - BtnOne
+  - BtnTwo
+  - BtnThree
+  - BtnFour
+  - BtnFive
+  - BtnSix
+  - BtnSeven
+  - BtnEight
+  - BtnNine
+  - BtnLePar
+  - BtnRePar
   layers:
   - Default
   - TransparentFX
